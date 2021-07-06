@@ -70,6 +70,10 @@ Simplify results by switching the result subtext to "Only for Alternative Action
 
 [![Alfred Appearance Options](./assets/alfred-appearance-options.png)](./assets/alfred-appearance-options.png)
 
+## Sync your Alfred Theme with your System Appearance
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d8eeb95b28474db991da7c6dbf2407a1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Inspiration
 
 The inspiration for this theme came from [a request](https://www.alfredforum.com/topic/17071-can-we-have-some-coloured-themes-for-the-m1-imac-please/) in the Alfred Forum from [hootle](https://www.alfredforum.com/profile/23171-hootle/0).
