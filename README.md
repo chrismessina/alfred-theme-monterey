@@ -72,7 +72,7 @@ Simplify results by switching the result subtext to "Only for Alternative Action
 
 ## Sync your Alfred Theme with your System Appearance
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d8eeb95b28474db991da7c6dbf2407a1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[![How to sync your Alfred theme to your System Appearance - Watch Video](https://www.loom.com/share/d8eeb95b28474db991da7c6dbf2407a1)](./assets/loom.gif)
 
 ## Inspiration
 
