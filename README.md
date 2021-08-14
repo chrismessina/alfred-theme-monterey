@@ -1,7 +1,6 @@
-# Monterey Powerpack Theme
-Alfred Themes for Monterey
+# Monterey Powerpack Theme Collection for Alfred
 
-Here is a collection of [Alfred Powerpack Themes](https://www.alfredapp.com/help/appearance/) that are inspired by Apple's macOS Monterey appearance and accent color schemes.
+This is a collection of [Alfred Powerpack Themes](https://www.alfredapp.com/help/appearance/) inspired by Apple's macOS Monterey appearance and accent color schemes.
 
 [**Download Themes**](https://github.com/chrismessina/alfred-theme-monterey/releases/latest)
 
@@ -9,7 +8,7 @@ Here is a collection of [Alfred Powerpack Themes](https://www.alfredapp.com/help
 
 This theme uses [SF Pro](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/), which is [available for download](https://developer.apple.com/fonts/) from Apple. Download and install that first.
 
-Then download and unzip the file above, and double-click each `.alfredappearance` file to install them.
+Then download and unzip the file above, and double-click each `.alfredappearance` file to install it.
 
 ## Previews
 
